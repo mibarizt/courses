@@ -1,0 +1,51 @@
+﻿
+p:first-letter{
+    text-transform:uppercase;
+}
+p{
+    color:#424242;
+    font-family:"Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    letter-spacing:0.1em;
+    text-align:center;
+    margin:40px auto;
+    text-transform:lowercase;
+    line-height:145%;
+    font-size:14pt;
+    font-variant:small-caps;
+}
+
+h1{
+    font-family:"Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    font-style:italic;
+    color:#424242;
+    text-align:center;
+    
+}
+h1 a{
+    font-family:"Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    font-style:italic;
+    color:#424242;
+    text-align:center;
+}
+
+a{
+    font-style:normal;
+    font-variant:small-caps;
+    text-decoration:none;
+    color:#afafaf;
+    font-size:14pt;
+}
+.contact{
+    text-align:center;
+    font-variant:normal;
+    margin-top:5%;
+    position:fixed;
+    margin-left:40%;
+}
+.contact a{
+    font-variant:normal;
+}
+
+ul{
+    margin-left:40%;
+}
